@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Aplicación sencilla de React Native creada con Expo que permite a los usuarios iniciar sesión y consultar una lista de datos de una API externa. La aplicación incluye validación de campos en el inicio de sesión, y muestra una lista de elementos que se pueden refrescar. 
+Aplicación React Native creada con Expo que permite a los usuarios iniciar sesión y consultar una lista de datos de una API externa. La aplicación incluye validación de campos en el inicio de sesión, y muestra una lista de elementos que se pueden refrescar. 
 
 ## Funcionalidades
 
