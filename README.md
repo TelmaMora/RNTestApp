@@ -22,7 +22,7 @@ Aplicación React Native creada con Expo que permite a los usuarios iniciar sesi
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/nombre-del-repo.git
+   git clone https://github.com/TelmaMora/RNTestApp.git
    cd nombre-del-repo
    ```
 
